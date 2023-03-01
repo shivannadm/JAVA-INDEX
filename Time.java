@@ -2,11 +2,13 @@ package timeconversion;
 
 import java.util.Scanner;
 
-public class Time {
+public class Time
+{
     int hours, seconds, minutes;
     Scanner in = new Scanner(System.in);
 
-    public void hourstominutes() {
+    public void hourstominutes()
+    {
         System.out.println("Enter the no of Hours to convert into minutes");
         hours = in.nextInt();
         minutes = (hours * 60);
