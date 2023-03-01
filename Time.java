@@ -20,14 +20,16 @@ public class Time {
         System.out.println("Hours: " + hours);
     }
 
-    public void hourstoseconds() {
+    public void hourstoseconds() 
+    {
         System.out.println("Enter the no of Hours to convert into Seconds");
         hours = in.nextInt();
         seconds = (hours * 3600);
         System.out.println("Seconds: " + seconds);
     }
 
-    public void secondstohours() {
+    public void secondstohours()
+    {
         System.out.println("Enter the no of Seconds to convert into Hours");
         seconds = in.nextInt();
         hours = seconds / 3600;
