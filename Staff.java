@@ -130,6 +130,5 @@ class Staffdetails {
         for (int i = 0; i < n; i++) {
             c[i].display();
         }
-
     }
 }
