@@ -14,16 +14,16 @@ public class Quadratic {
         if (a == 0) {
             System.out.println("Invalid coefficient");
         } else if (d > 0.0) {
-            System.out.println(" the roots sre real and distinct");
+            System.out.println("The roots are real and distinct");
             r1 = (-b + (Math.sqrt(d))) / (2.0 * a);
             r2 = (-b - (Math.sqrt(d))) / (2.0 * a);
             System.out.println("r1 = " + r1 + "and r2 = " + r2);
         } else if (d == 0.0) {
-            System.out.println(" the roots sre real and equal");
+            System.out.println("The roots are real and equal");
             r1 = -b / (2.0 * a);
             System.out.println("r1 = " + r1);
         } else {
-            System.out.println(" the roots sre complex and imaginary");
+            System.out.println("The roots are complex and imaginary");
             r1 = -b / (2.0 * a);
             r2 = (Math.sqrt(Math.abs(d))) / (2.0 / a);
             System.out.println("r1 = " + r1 + "+i" + r2 + "\nr2=" + r1 + "-i" + r2);
