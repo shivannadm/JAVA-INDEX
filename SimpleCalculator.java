@@ -73,14 +73,14 @@ class Calculate implements ActionListener {
             int n2 = Integer.parseInt(t2.getText());
             int sum = n1 + n2;
             l3.setForeground(Color.blue);
-            l3.setText("Result is:" + sum);
+            l3.setText("Result is :" + sum);
         }
         if (e.getSource() == b2) {
             int n1 = Integer.parseInt(t1.getText());
             int n2 = Integer.parseInt(t2.getText());
             int sub = n1 - n2;
             l3.setForeground(Color.blue);
-            l3.setText("Result is:" + sub);
+            l3.setText("Result is :" + sub);
         }
         if (e.getSource() == b3) {
 
@@ -88,14 +88,14 @@ class Calculate implements ActionListener {
             int n2 = Integer.parseInt(t2.getText());
             int mul = n1 * n2;
             l3.setForeground(Color.blue);
-            l3.setText("Result is:" + mul);
+            l3.setText("Result is :" + mul);
         }
         if (e.getSource() == b4) {
             int n1 = Integer.parseInt(t1.getText());
             int n2 = Integer.parseInt(t2.getText());
             int div = n1 / n2;
             l3.setForeground(Color.blue);
-            l3.setText("Result is:" + div);
+            l3.setText("Result is :" + div);
 
         }
 
