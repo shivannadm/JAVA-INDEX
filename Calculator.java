@@ -6,11 +6,11 @@ class Calculator {
         Scanner input = new Scanner(System.in);
         char operator;
         double num1, num2, result;
-        System.out.println("enter 1st numbers");
+        System.out.println("Enter 1st numbers");
         num1 = input.nextDouble();
         System.out.println("Enter the operators + , *, -, /");
         operator = input.next().charAt(0);
-        System.out.println("enter 2st numbers");
+        System.out.println("Enter 2st numbers");
         num2 = input.nextDouble();
         switch (operator) {
             case '+':
@@ -23,7 +23,7 @@ class Calculator {
                 break;
             case '/':
                 if (num2 == 0) {
-                    System.out.println("divisible by 0 is not possible");
+                    System.out.println("Divisible by 0 is not possible");
                     break;
                 } else {
                     result = num1 / num2;
