@@ -4,6 +4,7 @@ public class Mover {
     }
 
     void add(int a, int b, int c) {
+       
         System.out.println("The addition of three integers: " + (a + b + c));
     }
 
