@@ -9,13 +9,13 @@ System.out.print("B :");
 b=scan.nextInt();
 scan.close();
 try {
-if(b==0)
-throw new ArithmeticException("Divide By Zero");
-c=a/b;
-System.out.println("\nThe Value of "+a+" / "+b+" is "+c);
-}catch(ArithmeticException e)
-{
- System.out.println("Enter a non zero number for B!!!");
-}
+     if(b==0)
+            throw new ArithmeticException("Divide By Zero");
+     c=a/b;
+            System.out.println("\nThe Value of "+a+" / "+b+" is "+c);
+    }catch(ArithmeticException e)
+   {
+           System.out.println("Enter a non zero number for B!!!");
+  }
  }
 }
