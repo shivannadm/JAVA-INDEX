@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 public class Prime{
-    public static void main(String[] args){
+    public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
         double i,m=0,flag=0;
         System.out.println("Enter the number: ");
