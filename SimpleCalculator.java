@@ -95,7 +95,7 @@ class Calculate implements ActionListener {
             int n2 = Integer.parseInt(t2.getText());
             int div = n1 / n2;
             l3.setForeground(Color.blue);
-            l3.setText("Result is :" + div);
+            l3.setText("Result is : " + div);
 
         }
 
