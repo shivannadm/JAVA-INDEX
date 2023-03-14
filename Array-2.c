@@ -35,7 +35,7 @@ void delete(int arr[])
 void display(int arr[])
 {
     int i;
-    printf("the array elemts are: ");
+    printf("The array elemts are: ");
     for (i = 0; i < n; i++)
     {
         printf("%d\t", arr[i]);
