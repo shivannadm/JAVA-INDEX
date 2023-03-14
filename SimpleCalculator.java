@@ -17,12 +17,12 @@ class Calculate implements ActionListener {
         frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         frame.setLayout(null);
 
-        l1 = new JLabel("Number 1:");
+        l1 = new JLabel("Number 1: ");
         l1.setFont(new Font("Arial", Font.PLAIN, 20));
         l1.setBounds(50, 50, 100, 50);
         frame.add(l1);
 
-        l2 = new JLabel("Number 2:");
+        l2 = new JLabel("Number 2: ");
         l2.setFont(new Font("Arial", Font.PLAIN, 20));
         l2.setBounds(50, 100, 100, 50);
         frame.add(l2);
