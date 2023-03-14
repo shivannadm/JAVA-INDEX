@@ -55,8 +55,8 @@ int main()
     }
     while (1)
     {
-        printf("\n1.Insert\n2.delete\n3.Display\n4.Exit\n");
-        printf("Enter the choice: ");
+        printf("\n1.Insert\n2.delete\n3.Display\n4.Exit");
+        printf("\nEnter the choice: ");
         scanf("%d", &choice);
         switch (choice)
         {
