@@ -7,7 +7,7 @@ class Teacher implements Resume {
     float experience;
 
     public void biodata() {
-        name ="ABC";
+        name = "ABC";
         qualification = "M.Tech";
         achievements = "Best Teacher Awardee";
         experience = 10.5f;
