@@ -29,9 +29,9 @@ class Cube extends Thread {
 }
 
 class Randnum extends Thread {
-    // start() method implicitly calls the run() for the main thread
+    // start() method implicitly calls the run() for the main thread.
     public void run() {
-        // builtin class Random for generating random numbers
+        // builtin class Random for generating random numbers.
         Random random = new Random();
         for (int i = 0; i < 5; i++) {
             int randomInteger = random.nextInt(10);
