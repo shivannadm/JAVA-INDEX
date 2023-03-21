@@ -52,7 +52,7 @@ int main()
 {
     int arr[10], i, choice;
     printf("Enter the array size: ");
-    scanf("%d", &n);
+    scanf("%d",&n);
     printf("Enter the array elements: ");
     for (i = 0; i < n; i++)
     {
