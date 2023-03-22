@@ -35,7 +35,7 @@ class Randnum extends Thread {
         Random random = new Random();
         for (int i = 0; i < 5; i++) {
             int randomInteger = random.nextInt(10);
-            System.out.print("Random Integer generated for " + (i + 1) + "Iteration is: " + randomInteger + " ");
+            System.out.print("Random Integer generated for " + (i + 1) + "Iteration is : " + randomInteger + " ");
             System.out.println("With Main thread name:" + getName());
             Square s = new Square(randomInteger);
             s.start();
