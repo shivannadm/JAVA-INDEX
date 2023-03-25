@@ -58,7 +58,7 @@ int main()
     {
         scanf("%d", &arr[i]);
     }
-    while (1)
+    while(1)
     {
         printf("\n1.Insert\n2.delete\n3.Display\n4.Exit");
         printf("\nEnter the choice: ");
