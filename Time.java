@@ -9,7 +9,7 @@ public class Time
 
     public void hourstominutes()
     {
-        System.out.println("Enter the no of Hours to convert into minutes");
+        System.out.println("Enter the no of Hours to convert into minutes ");
         hours = in.nextInt();
         minutes = (hours * 60);
         System.out.println("Minutes: " + minutes);
