@@ -17,7 +17,7 @@ public class Time
 
     public void minutestohours()
     {
-        System.out.println("Enter the no of Minutes to convert into Hours");
+        System.out.println("Enter the no of Minutes to convert into Hours ");
         minutes = in.nextInt();
         hours = minutes / 60;
         System.out.println("Hours: " + hours);
@@ -25,7 +25,7 @@ public class Time
 
     public void hourstoseconds() 
     {
-        System.out.println("Enter the no of Hours to convert into Seconds");
+        System.out.println("Enter the no of Hours to convert into Seconds ");
         hours = in.nextInt();
         seconds = (hours * 3600);
         System.out.println("Seconds: " + seconds);
