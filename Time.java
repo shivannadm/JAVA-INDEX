@@ -33,7 +33,7 @@ public class Time
 
     public void secondstohours()
     {
-        System.out.println("Enter the no of Seconds to convert into Hours");
+        System.out.println("Enter the no of Seconds to convert into Hours ");
         seconds = in.nextInt();
         hours = seconds / 3600;
         System.out.println(seconds + "seconds" + " is equal to " + hours + "hour");
