@@ -6,7 +6,7 @@ public class Distance {
     double km, m, miles;
     Scanner in = new Scanner(System.in);
 
-    public void mtokm() {
+    public void mtokm() { 
         System.out.println("Enter the distance in meter");
         m = in.nextDouble();
         km = (m / 1000);
