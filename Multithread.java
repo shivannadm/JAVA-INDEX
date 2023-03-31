@@ -8,8 +8,8 @@ class Hello extends Thread{
         try
         {
             Thread.sleep(1000);
-        }catch(InterruptedException e)
-        {}}
+        }catch(InterruptedException e){}
+        }
     }
 }
 
@@ -21,8 +21,8 @@ class World extends Thread{
         try
         {
             Thread.sleep(1000);
-        }catch(InterruptedException e)
-        {}}
+        }catch(InterruptedException e){}
+        }
     }
 }
 
