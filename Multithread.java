@@ -5,7 +5,8 @@ class Hello extends Thread{
         for(int i=1;i<5;i++)
         {
         System.out.println("Hello");
-        try{
+        try
+        {
             Thread.sleep(1000);
         }catch(InterruptedException e)
         {}}
@@ -17,7 +18,8 @@ class World extends Thread{
     {
         for(int i=1;i<5;i++){
         System.out.println("World");
-        try{
+        try
+        {
             Thread.sleep(1000);
         }catch(InterruptedException e)
         {}}
