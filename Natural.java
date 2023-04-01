@@ -10,6 +10,6 @@ public class Natural{
         {
             sum = sum + i;
         }
-        System.out.println("Sum is: "+sum);
+        System.out.println("Sum is including "+n+": "+sum);
     }
 }
