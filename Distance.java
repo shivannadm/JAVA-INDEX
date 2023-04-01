@@ -14,7 +14,7 @@ public class Distance {
         System.out.println("\n");
     }
 
-    public void kmtom() { 
+    public void kmtom() {
         System.out.println("Enter the distance in Kilometer");
         km = in.nextDouble();
         m = km * 1000;
