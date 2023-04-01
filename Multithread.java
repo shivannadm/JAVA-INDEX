@@ -26,7 +26,7 @@ class World extends Thread{
     }
 }
 
-public class Multithread{
+public class Multithread {
     public static void main(String[] args) {
         Hello ob = new Hello();
         World ob1 = new World();
