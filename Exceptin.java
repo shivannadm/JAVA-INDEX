@@ -5,20 +5,19 @@ public class Exception {
         try{
             System.out.println(name.length());
         }catch(NullPointerException e)
-    {
-    System.out.println(e);
-    System.out.println("Name is set to null, please provide valid name:");
-    }
-    try
-    {
-    System.out.println(a[4]);
-    }
-    catch(Exception e)
-    {
-    System.out.println(e);
-    }
+        {
+            System.out.println(e);
+            System.out.println("Name is set to null, please provide valid name:");
+        }
+        try
+        {
+            System.out.println(a[4]);
+        } catch(Exception e)
+        {
+            System.out.println(e);
+        }
     
-    }
+        }
     
    } 
    
