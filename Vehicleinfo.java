@@ -30,7 +30,7 @@ class Vehicle{
         }
         void display()
         {
-            super.display();
+            super.display(); 
             System.out.println("Car madel and color is: "+modelName+"  "+color);
         }
     }
