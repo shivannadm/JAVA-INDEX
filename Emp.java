@@ -20,6 +20,7 @@ public class Emp{
             edept = edep;
             salary = esal;
         }
+        
     public static void main(String[] args) {
         Emp e1 = new Emp();
         System.out.println("Employee details are "+e1.eid+" "+e1.name+" "+e1.edept+" "+e1.salary);
