@@ -1,4 +1,4 @@
-//
+// Interface programm
 interface Resume {
     void biodata();
 }
