@@ -1,6 +1,6 @@
 //default 
-import java.util.*;
 
+import java.util.*;
 
 public class Employee{
     String ename,esal,eid;
