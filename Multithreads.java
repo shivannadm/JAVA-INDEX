@@ -1,3 +1,4 @@
+
 import java.util.Random;
 
 class Square extends Thread {
