@@ -1,8 +1,6 @@
 
 //Hi actually this is not a java program , this is C-Program
 
-
-
 #include <stdio.h>
 #include <stdlib.h>
 int n;
