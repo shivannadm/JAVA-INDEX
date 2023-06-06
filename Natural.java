@@ -15,3 +15,4 @@ public class Natural{
         System.out.println("Sum is including "+n+": "+sum);
     }
 }
+
