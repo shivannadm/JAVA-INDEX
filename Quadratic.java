@@ -1,4 +1,5 @@
 // java
+
 import java.util.Scanner;
 
 public class Quadratic {
@@ -33,3 +34,4 @@ public class Quadratic {
     }
 
 }
+
