@@ -1,3 +1,4 @@
+// Finding Prime number in java
 import java.util.Scanner;
 
 public class Prime{
@@ -30,3 +31,4 @@ public class Prime{
         }
     }
 }
+
