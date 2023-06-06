@@ -1,4 +1,5 @@
 // Sum Natural number's
+
 import java.util.Scanner;
 
 public class Natural{
