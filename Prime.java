@@ -1,4 +1,4 @@
-// Finding Prime number in java
+// Finding Prime number in java using if else conditions
 
 import java.util.Scanner;
 
