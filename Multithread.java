@@ -1,4 +1,4 @@
-// Multi thread in jaava
+// Multi threading in jaava
 
 class Hello extends Thread{
     public void run()
