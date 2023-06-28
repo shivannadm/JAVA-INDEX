@@ -1,4 +1,4 @@
-// Multi threading
+// Multi Threading
 
 import java.util.Random;
 
