@@ -1,4 +1,4 @@
-// Sum Natural number's
+// Sum of Natural number's
 
 import java.util.Scanner;
 
