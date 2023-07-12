@@ -41,3 +41,4 @@ public class Time
         System.out.println(seconds + "seconds" + " is equal to " + hours + "hour");
     }
 }
+
