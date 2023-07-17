@@ -1,3 +1,6 @@
+
+// Quick sorting method
+
 import java.util.*;
 
 public class Quicksort{
