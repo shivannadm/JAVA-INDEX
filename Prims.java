@@ -1,3 +1,4 @@
+// This is finding of minimum cost of spanning tree by prims methody
 import java.util.Scanner;
 
 public class Prims {
