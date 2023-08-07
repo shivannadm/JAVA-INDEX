@@ -57,4 +57,3 @@ public class Currency {
         System.out.println("\n");
     }
 }
-
