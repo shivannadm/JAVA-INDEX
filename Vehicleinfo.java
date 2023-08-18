@@ -45,3 +45,4 @@ public class Vehicleinfo{
         ob.display();
     }
 }
+
