@@ -1,4 +1,3 @@
-
 //GUI
 
 import javax.swing.*;
