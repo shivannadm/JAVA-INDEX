@@ -2,6 +2,8 @@
 
 package Abstract; //package
 
+
+//Parent class (Abstract class)
 abstract class Car{
     public abstract void drive();
     public abstract void fly();
