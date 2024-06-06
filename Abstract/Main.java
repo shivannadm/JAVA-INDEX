@@ -1,3 +1,5 @@
+// Abstract (java OOPs)
+
 package Abstract;
 
 abstract class Car{
