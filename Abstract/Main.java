@@ -14,6 +14,7 @@ abstract class Car{
     
 }
 
+//Child Abstract class to car
 abstract class WagonR extends Car{
     public void drive(){
         System.out.println("Driving...");
