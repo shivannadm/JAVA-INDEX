@@ -22,6 +22,7 @@ abstract class WagonR extends Car{
     
 }
 
+//Normal Class for accessing the all methods(abstract and normal class methods)
 class UpdatedWagonR extends WagonR{
     public void fly(){
         System.out.println("Flying...");
