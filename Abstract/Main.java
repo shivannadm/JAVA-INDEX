@@ -1,6 +1,6 @@
 // Abstract (java OOPs)
 
-package Abstract;
+package Abstract; //package
 
 abstract class Car{
     public abstract void drive();
