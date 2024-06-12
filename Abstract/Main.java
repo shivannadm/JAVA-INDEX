@@ -35,7 +35,7 @@ class UpdatedWagonR extends WagonR{
 //Main Class
 public class Main {
     public static void main(String[] args) {
-        Car obj = new UpdatedWagonR();
+        Car obj = new UpdatedWagonR(); //Object creation
         obj.drive();
         obj.musicPlay();
         obj.fly();
