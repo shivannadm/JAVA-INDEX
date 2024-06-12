@@ -1,6 +1,6 @@
 // Abstract (java OOPs)
 
-package Abstract; //package
+package Abstract; //package (Directory name)
 
 
 //Parent class (Abstract class)
