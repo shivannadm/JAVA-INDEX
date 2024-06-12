@@ -24,6 +24,7 @@ abstract class WagonR extends Car{
 
 //Normal Class for accessing the all methods(abstract and normal class methods)
 //In java we can't create object for abstract class so create one normal class which extends the abstract classes 
+
 class UpdatedWagonR extends WagonR{
     public void fly(){
         System.out.println("Flying...");
