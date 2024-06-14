@@ -18,9 +18,6 @@ public class Arraylist {
         System.out.println(lists);
 
 
-
-
-
         // ArrayList<Integer> list = new ArrayList<>();
         // list.add(20);
         // list.add(72);
