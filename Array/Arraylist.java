@@ -41,7 +41,6 @@ public class Arraylist {
         // list.set(0,9);
         // list.remove(2);
         
-
         // System.out.println(list.contains(72));
         // System.out.println(list);
         
