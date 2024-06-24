@@ -1,4 +1,4 @@
-//Jogged
+//Jogged Array
 
 package Array;
 import java.util.Arrays;
