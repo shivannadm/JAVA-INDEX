@@ -19,7 +19,7 @@ class Vehicle{
     }
 }
 
-    class Car extends Vehicle{
+class Car extends Vehicle{
         Scanner in = new Scanner(System.in);
         String modelName,color;
         void read()
