@@ -34,7 +34,7 @@ class Car extends Vehicle{
             super.display();
             System.out.println("Car madel and color is: "+modelName+"  "+color);
         }
-    }
+ }
 
 
 public class Vehicleinfo{
