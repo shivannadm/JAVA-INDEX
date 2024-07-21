@@ -1,4 +1,3 @@
-
 //Exception
 
 public class Exception {
