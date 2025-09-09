@@ -1,3 +1,4 @@
+// Not Optimized
 class Solution {
     public int maxRotateFunction(int[] nums) {
         int n = nums.length;
