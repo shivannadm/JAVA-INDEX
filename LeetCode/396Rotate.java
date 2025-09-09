@@ -1,3 +1,4 @@
+// Optimezed Code (396. Rotate Function)
 class Solution {
     public int maxRotateFunction(int[] nums) {
         int n = nums.length;
