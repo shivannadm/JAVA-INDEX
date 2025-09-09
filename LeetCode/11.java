@@ -1,4 +1,5 @@
-/*
+/*  11. Container With Most Water:
+
 Intuition:
 The two-pointer technique starts with the widest container and moves the pointers inward based on the comparison of heights.
 Increasing the width of the container can only lead to a larger area if the height of the new boundary is greater. By moving the pointers towards the center, we explore containers with the potential for greater areas.
