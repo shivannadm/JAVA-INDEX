@@ -1,4 +1,5 @@
 // 1822. Sign of the Product of an Array
+
 class Solution {
     public int arraySign(int[] nums) {
         int product = 1;
